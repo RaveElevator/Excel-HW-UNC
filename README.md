@@ -1,2 +1,2 @@
-# Excel-HW-UNC
-UNC EXCEL HW
+# Excel
+EXCEL
